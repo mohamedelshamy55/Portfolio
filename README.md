@@ -3,8 +3,8 @@
 
 ![screenshot1](https://github.com/mohamedelshamy55/Portfolio-mobile-menu/blob/mohamedelshamy55-patch-1/screenshot1.png)
 ![screenshot2](https://github.com/mohamedelshamy55/Portfolio-mobile-menu/blob/mohamedelshamy55-patch-1/screenshot2.png)
-
-
+![screenshot2](https://github.com/mohamedelshamy55/Portfolio-mobile-menu/blob/mohamedelshamy55-patch-1/screenshot2.png)!
+[screenshot2](https://github.com/mohamedelshamy55/Portfolio-mobile-menu/blob/mohamedelshamy55-patch-1/screenshot2.png)
 ## Built With
 - HTML
 - CSS
@@ -39,13 +39,14 @@ To get a local copy up and running follow these simple example steps.
 -None
 
 ### Deployment
--https://mohamedelshamy55.github.io/Portfolio-mobile-menu/
+-none
 
 👤 Author
 
-GitHub: https://github.com/mohamedelshamy55
-Twitter: https://mobile.twitter.com/moelshamy55
-LinkedIn: https://www.linkedin.com/in/mohamed-elshamy85/
+- GitHub: [@githubhandle](https://github.com/mohamedelshamy55)
+- Twitter: [@twitterhandle](https://mobile.twitter.com/moelshamy55)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-elshamy85/)
+
 
 Contributions, issues, and feature requests are welcome!
 

@@ -58,4 +58,19 @@ export default [{
         link1: 'https://mohamedelshamy55.github.io/Portfolio-Bootstrap/',
         link2: 'https://github.com/mohamedelshamy55/Portfolio-Bootstrap',
     },
+    {
+        id: 5,
+        header: 'Meals App',
+        authorLang: 'PERSONAL',
+        authorList1: 'Full Stack Dev',
+        authorList2: '2021',
+        imgSrc: './images/mealdb.png',
+        para: `  This project consist on the Microverse JavaScript capstone project where we build own web application based on 2 externals API. This webapp have 2 user interfaces since we are a team of 2 members, the interfaces are: A home page showing a list of shows
+        that can be liked. A popup window with more data about the selected show that a user can use to comment on it.`,
+        langList1: 'html',
+        langList2: 'css',
+        langList3: 'javascript',
+        link1: 'https://naskhalil.github.io/capstone-project/',
+        link2: 'https://github.com/mohamedelshamy55/secondcapstone',
+    },
 ];
